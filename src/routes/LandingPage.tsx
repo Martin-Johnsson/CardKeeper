@@ -1,4 +1,5 @@
 import { useState } from 'react';
+
 const LandingPage = () => {
   const [score, setScore] = useState(500);
 
